@@ -1,0 +1,55 @@
+<!doctype html>
+<html class="fixed">
+	<head>
+
+		<!-- Basic -->
+		<meta charset="UTF-8">
+
+		<title>{% block title%}{%endblock%}</title>
+		<meta name="keywords" content="HTML5 Admin Template" />
+		<meta name="description" content="JSOFT Admin - Responsive HTML5 Template">
+		<meta name="author" content="JSOFT.net">
+
+		<!-- Mobile Metas -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+		<!-- Web Fonts  -->
+	{% include 'backend/layouts/css.html' %}
+
+
+	</head>
+	<body>
+		<section class="body">
+
+			<!-- start: header -->
+			{% include 'backend/layouts/header.html' %}
+			<!-- end: header -->
+
+			<div class="inner-wrapper">
+				<!-- start: sidebar -->
+				{% include 'backend/layouts/sidebar.html' %}
+				<!-- end: sidebar -->
+
+        <section role="main" class="content-body">
+			   <!-- start page header  -->
+				 {%  include 'backend/layouts/page_header.html' %}
+          <!-- end page header  -->
+          <!-- Start main page content -->
+         
+		     {% block main_content%}{%endblock%}
+
+
+
+
+
+			<!-- 	End main page content -->
+           </section>
+
+			</div>
+
+		{% include 'backend/layouts/rightside_calender.html' %}
+		</section>
+
+		{% include 'backend/layouts/js.html' %}
+	</body>
+</html>
