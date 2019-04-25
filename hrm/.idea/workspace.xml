@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3281571f-1ca3-42a3-b8fd-3eea9f02902a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/templates/backend/employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/templates/backend/employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/activate.csh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/activate.xsh" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/activate.xsh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/django-admin" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/django-admin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/django-admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/django-admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/easy_install-3.6" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/easy_install-3.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/pip3.6" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/pip3.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/python-config" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/python-config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/sqlformat" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/sqlformat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/bin/wheel" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/bin/wheel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/ImDib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/ImPlatform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/Imaging.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/ImagingUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/Python-ast.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/Python.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/abstract.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/accu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/asdl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/ast.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/bitset.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/bltinmodule.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/boolobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/bytearrayobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/bytes_methods.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/bytesobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/cellobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/ceval.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/classobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/code.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/codecs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/compile.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/complexobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/datetime.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/descrobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/dictobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/dtoa.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/dynamic_annotations.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/enumobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/errcode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/eval.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/fileobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/fileutils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/floatobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/frameobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/funcobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/genobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/graminit.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/grammar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/import.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/intrcheck.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/iterobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/listobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/longintrepr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/longobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/marshal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/memoryobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/metagrammar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/methodobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/modsupport.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/moduleobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/namespaceobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/object.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/objimpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/odictobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/opcode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/osdefs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/osmodule.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/parsetok.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/patchlevel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pgen.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pgenheaders.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/py_curses.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pyarena.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pyatomic.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pycapsule.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pyconfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pyctype.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pydebug.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pydtrace.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pyerrors.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pyexpat.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pyfpe.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pygetopt.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pyhash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pylifecycle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pymacconfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pymacro.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pymath.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pymem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pyport.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pystate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pystrcmp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pystrhex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pystrtod.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pythonrun.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pythread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/pytime.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/rangeobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/setobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/sliceobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/structmember.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/structseq.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/symtable.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/sysmodule.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/token.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/traceback.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/tupleobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/typeslots.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/ucnhash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/unicodeobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/warnings.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/include/python3.6m/weakrefobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/collections/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/collections/abc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/Setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/Setup.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/Setup.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/config.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/config.c.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/install-sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/libpython3.6.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/libpython3.6m-pic.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/libpython3.6m.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/libpython3.6m.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/makesetup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/python-config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/config-3.6m-x86_64-linux-gnu/python.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/aliases.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/ascii.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/base64_codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/big5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/big5hkscs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/bz2_codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/charmap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp037.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp1006.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp1026.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp1125.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp1140.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp1250.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp1251.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp1252.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp1253.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp1254.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp1255.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp1256.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp1257.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp1258.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp273.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp424.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp437.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp500.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp65001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp720.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp737.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp775.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp850.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp852.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp855.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp856.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp857.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp858.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp860.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp861.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp862.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp863.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp864.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp865.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp869.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp874.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp875.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp932.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp949.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/cp950.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/euc_jis_2004.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/euc_jisx0213.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/euc_jp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/euc_kr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/gb18030.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/gb2312.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/gbk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/hex_codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/hp_roman8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/hz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/idna.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso2022_jp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso2022_jp_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso2022_jp_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso2022_jp_2004.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso2022_jp_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso2022_jp_ext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso2022_kr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/iso8859_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/johab.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/koi8_r.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/koi8_t.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/koi8_u.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/kz1048.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/latin_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/mac_arabic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/mac_centeuro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/mac_croatian.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/mac_cyrillic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/mac_farsi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/mac_greek.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/mac_iceland.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/mac_latin2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/mac_roman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/mac_romanian.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/mac_turkish.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/mbcs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/oem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/palmos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/ptcp154.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/punycode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/quopri_codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/raw_unicode_escape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/rot_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/shift_jis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/shift_jis_2004.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/shift_jisx0213.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/tis_620.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/undefined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/unicode_escape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/unicode_internal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/utf_16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/utf_16_be.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/utf_16_le.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/utf_32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/utf_32_be.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/utf_32_le.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/utf_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/utf_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/utf_8_sig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/uu_codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/encodings/zlib_codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/importlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/importlib/_bootstrap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/importlib/_bootstrap_external.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/importlib/abc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/importlib/machinery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/importlib/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_asyncio.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_bz2.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_codecs_cn.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_codecs_hk.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_codecs_iso2022.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_codecs_jp.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_codecs_kr.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_codecs_tw.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_crypt.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_csv.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_ctypes.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_ctypes_test.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_curses.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_curses_panel.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_dbm.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_decimal.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_gdbm.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_hashlib.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_json.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_lsprof.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_lzma.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_multibytecodec.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_multiprocessing.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_opcode.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_sqlite3.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_ssl.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_testbuffer.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_testcapi.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_testimportmultiple.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/_testmultiphase.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/audioop.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/mmap.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/nis.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/ossaudiodev.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/parser.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/readline.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/resource.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/termios.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/lib-dynload/xxlimited.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/Django-2.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/Django-2.2.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip-19.0.2.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip-19.0.2.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip-19.0.2.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip-19.0.2.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip-19.0.2.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip-19.0.2.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip-19.0.2.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/build_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/build_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/cli/base_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/cli/cmdoptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/cli/cmdoptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/cli/main_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/cli/main_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/commands/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/commands/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/commands/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/commands/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/commands/install.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/commands/install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/commands/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/commands/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/commands/show.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/commands/show.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/locations.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/locations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/models/candidate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/models/candidate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/models/format_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/models/format_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/models/link.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/models/link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/operations/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/operations/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/operations/freeze.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/operations/freeze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/operations/prepare.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/pep425tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/pep425tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/pyproject.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/pyproject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/constructors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/constructors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/req_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/req_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/req_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/req_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/req_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/req_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/req_tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/req_tracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/req_uninstall.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/resolve.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/resolve.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/appdirs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/appdirs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/deprecation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/deprecation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/encoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/glibc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/glibc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/hashes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/hashes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/outdated.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/outdated.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/packaging.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/packaging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/typing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/typing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/utils/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/vcs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/vcs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/vcs/bazaar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/vcs/bazaar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/vcs/git.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/vcs/git.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/vcs/mercurial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/vcs/mercurial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/vcs/subversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_internal/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/certifi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/certifi/cacert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/certifi/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/certifi/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/distro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/distro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/progress/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/progress/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/progress/bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/progress/bar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/progress/counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/progress/counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/progress/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/progress/spinner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/progress/spinner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/ordered_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/pkg_resources/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools-40.8.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools-40.8.0.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools-40.8.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools-40.8.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools-40.8.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools-40.8.0.dist-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools-40.8.0.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools-40.8.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools-40.8.0.dist-info/zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools/build_meta.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools/build_meta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools/command/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools/command/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools/dist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools/dist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools/package_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools/package_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools/py31compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools/py31compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools/unicode_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/setuptools/unicode_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/sqlparse-0.3.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/sqlparse-0.3.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel-0.32.3.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/bdist_wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/bdist_wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/cli/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/cli/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/cli/install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/cli/pack.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/cli/pack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/metadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/wheelfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site-packages/wheel/wheelfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.6/site.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/lib/python3.6/site.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backend/templates/backend/employee.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2299">
+              <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#a#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#button#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#button#2;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#button#3;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#4;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#9;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#9;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#9;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#9;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#4;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#9;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#10;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#10;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#10;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#10;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/backend/templates/backend/employee.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/hrm.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="293" />
+    <option name="y" value="53" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3281571f-1ca3-42a3-b8fd-3eea9f02902a" name="Default Changelist" comment="" />
+      <created>1556153908282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556153908282</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18797815" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backend/templates/backend/employee.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2299">
+          <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#a#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#button#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#button#2;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#button#3;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#4;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#9;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#9;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#9;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#9;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#4;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#9;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#10;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#10;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#10;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#10;n#div#0;n#section#0;n#form#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
