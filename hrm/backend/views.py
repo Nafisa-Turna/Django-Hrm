@@ -34,17 +34,17 @@ from django.contrib.auth.decorators import login_required
 # @login_required  
 def HomeView(request):
         if request.method =='GET':
-                return render(request,'metronic/page/index.html')
+                return render(request,'backend/index.html')
 # end home view method
 def branch(request):
-        return render(request,'metronic/page/branch.html')
+        return render(request,'backend/branch.html')
 def department(request):
-        return render(request,'metronic/page/department.html')
+        return render(request,'backend/department.html')
 
 def designation(request):
-        return render(request,'metronic/page/designation.html')
+        return render(request,'backend/designation.html')
 
 def employee(request):
-        return render(request,'metronic/page/employee.html')
+        return render(request,'backend/employee.html')
 def addemployee(request):
-        return render(request,'metronic/page/createemployee.html')
+        return render(request,'backend/createemployee.html')
